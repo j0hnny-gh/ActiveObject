@@ -1,0 +1,6 @@
+*.ipch
+*.tlog
+*.lastbuildstate
+*.filters
+ActiveObject/Debug/
+*.sdf
