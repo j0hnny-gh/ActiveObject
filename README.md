@@ -1,3 +1,3 @@
 # ActiveObject
 Active object pattern implementation
-2
+3
